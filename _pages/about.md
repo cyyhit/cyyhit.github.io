@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* <b>Education： 2017.08-2020.06 Ph.D. student in Faculty of Science， University of Macau， supervised by Prof. Yicong Zhou.</b>
-* <b>Reviewer： IEEE TIP, IEEE TNNLS, IEEE TCYB, IEEE TSP, IEEE TCSVT, IEEE JSTSP, Signal Processing, IEEE Access</b>
+* <b>Education</b>： 2017.08-2020.06 Ph.D. student in Faculty of Science， University of Macau， supervised by Prof. Yicong Zhou.
+* <b>Reviewer</b>： IEEE TIP, IEEE TNNLS, IEEE TCYB, IEEE TSP, IEEE TCSVT, IEEE JSTSP, Signal Processing, IEEE Access.
 
 
