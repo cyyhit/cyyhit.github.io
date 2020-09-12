@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Lei Cheng"
+title                    : "Yongyong Chen"
 title_separator          : "-"
-name                     : &name "Lei Cheng"
+name                     : &name "Yongyong Chen"
 description              : &description "this is me"
-url                      : https://csanshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cyyhit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "csanshi/csanshi.github.io"
+repository               : "cyyhit/cyyhit.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lei Cheng"
+  name             : "Yongyong Chen"
   avatar           : "profile.jpg"
-  bio              : "Posdoc, Pengcheng Lab"
+  bio              : "hitsz"
   location         : "Shenzhen, China"
   employer         : 
-  googlescholar    : "https://www.baidu.com"
-  email            : "sanshi2018@gmail.com"
+  googlescholar    : "https://www.https://scholar.google.com.tw/citations?user=ny2mn-cAAAAJ&hl=zh-CN.com"
+  email            : "skdcy2012@163.com"
   uri              : 
   bitbucket        :
   codepen          :
