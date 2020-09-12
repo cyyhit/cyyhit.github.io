@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Yi Chang"
+title                    : "Lei Cheng"
 title_separator          : "-"
-name                     : &name "Yi Chang"
-description              : &description "Posdoc, Pengcheng Lab"
-url                      : https://owuchangyuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lei Cheng"
+description              : &description "this is me"
+url                      : https://csanshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "owuchangyuo/owuchangyuo.github.io"
+repository               : "csanshi/csanshi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi Chang"
-  avatar           : "Yi Chang.jpg"
+  name             : "Lei Cheng"
+  avatar           : "profile.jpg"
   bio              : "Posdoc, Pengcheng Lab"
   location         : "Shenzhen, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=I1nZ67YAAAAJ&hl=en"
-  email            : "owuchangyuo@gmail.com"
+  googlescholar    : "https://www.baidu.com"
+  email            : "sanshi2018@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
