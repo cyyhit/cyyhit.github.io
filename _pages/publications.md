@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Multi-view subspace clustering via simultaneously learning the representation tensor and affinity matrix](http://csanshi.github.io/files/1-Multi-view subspace clustering via simultaneously learning the representation tensor and affinity matrix.pdf)</b> <br> 
-<b>Y Chen</b>, X Xiao, Y Zhou.<br>
+<b>Yongyong Chen</b>, X Xiao, Y Zhou.<br>
 <i>Pattern Recognition 106, 107441</i>.
 
 <b>[Hyperspectral Image Denoising by Total Variation-Regularized Bilinear Factorization](http://csanshi.github.io/files/2-Hyperspectral Image Denoising by Total Variation-Regularized Bilinear Factorization.pdf)</b> <br> 
@@ -24,11 +24,11 @@ author_profile: true
 <i>IEEE Transactions on Image Processing</i>.
 
 <b>[Prior Knowledge Regularized Multiview Self-Representation and Its Applications](http://csanshi.github.io/files/6-Prior Knowledge Regularized Multiview Self-Representation and Its Applications.pdf)</b> <br> 
-X Xiao, <b>Y Chen</b>, YJ Gong, Y Zhou.<br>
+X Xiao, <b>Yongyong Chen</b>, YJ Gong, Y Zhou.<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>.
 
 <b>[Two-Dimensional Quaternion Sparse Discriminant Analysis](http://csanshi.github.io/files/7-Two-Dimensional Quaternion Sparse Discriminant Analysis.pdf)</b> <br> 
-X Xiao, <b>Y Chen</b>, YJ Gong, Y Zhou.<br>
+X Xiao, <b>Yongyong Chen</b>, YJ Gong, Y Zhou.<br>
 <i>IEEE Transactions on Image Processing</i>.
 
 <b>[Tensor Nuclear Norm-Based Low-Rank Approximation With Total Variation Regularization](http://csanshi.github.io/files/8-Tensor Nuclear Norm-Based Low-Rank Approximation With Total Variation Regularization.pdf)</b> <br> 
@@ -48,26 +48,26 @@ X Xiao, <b>Y Chen</b>, YJ Gong, Y Zhou.<br>
 <i>Signal, Image and Video Processing 11 (7), 1271-1278</i>.
 
 <b>[Robust Principal Component Analysis with Matrix Factorization](http://csanshi.github.io/files/12-Robust Principal Component Analysis with Matrix Factorization.pdf)</b> <br> 
-<b>Y Chen</b>, Y Zhou.<br>
+<b>Yongyong Chen</b>, Y Zhou.<br>
 <i>2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>.
 
 <b>[Total Variation Regularized Low-rank Tensor Approximation for Color Image Denoising](http://csanshi.github.io/files/13-Total Variation Regularized Low-rank Tensor Approximation for Color Image Denoising.pdf)</b> <br> 
-<b>Yongyong</b> Chen and Yicong Zhou.<br>
+<b>Yongyong Chen</b> and Yicong Zhou.<br>
 <i>2018 IEEE International Conference on Systems, Man, and Cybernetics</i>.
 
 <b>[Denoising of Hyperspectral Image Using Low-Rank Matrix Factorization.pdf](http://csanshi.github.io/files/14-Denoising of Hyperspectral Image Using Low-Rank Matrix Factorization.pdf.pdf)</b> <br> 
-F Xu, <b>Y Chen</b>, C Peng, Y Wang, X Liu, G He.<br>
+F Xu, <b>Yongyong Chen</b>, C Peng, Y Wang, X Liu, G He.<br>
 <i>IEEE Geoscience and Remote Sensing Letters 14 (7), 1141 - 1145</i>.
 
 <b>[Dynamic Magnetic Resonance Imaging via Nonconvex Low-Rank Matrix Approximation](http://csanshi.github.io/files/15-Dynamic Magnetic Resonance Imaging via Nonconvex Low-Rank Matrix Approximation.pdf)</b> <br> 
-F Xu, J Han, Y Wang, M Chen, <b>Y Chen</b>, G He, Y Hu.<br>
+F Xu, J Han, Y Wang, M Chen, <b>Yongyong Chen</b>, G He, Y Hu.<br>
 <i>IEEE Access 5, 1958-1966</i>.
 
 <b>[Image Projection Ridge Regression for Subspace Clustering](http://csanshi.github.io/files/16-Image Projection Ridge Regression for Subspace Clustering.pdf)</b> <br> 
-C Peng, Z Kang, F Xu, <b>Y Chen</b>, Q Cheng.<br>
+C Peng, Z Kang, F Xu, <b>Yongyong Chen</b>, Q Cheng.<br>
 <i>IEEE Signal Processing Letters 24 (7), 991-995</i>.
 
 <b>[Robust principal component analysis A factorization-based approach with linear complexity](http://csanshi.github.io/files/17-Robust principal component analysis A factorization-based approach with linear complexity.pdf)</b> <br> 
-C Peng, Y Chen, Z Kang, <b>C Chen</b>, Q Cheng.<br>
+C Peng, <b>Yongyong Chen</b>, Z Kang, C Chen, Q Cheng.<br>
 <i>Information Sciences 513, 581-599</i>.
 
