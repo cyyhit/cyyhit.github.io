@@ -19,8 +19,8 @@ author_profile: true
 <b>Yongyong Chen</b>, X Xiao, Y Zhou.<br>
 <i>IEEE Transactions on Multimedia</i>.
 
-<b>[Low-Rank Quaternion Approximation for Color Image Processing](http://cyyhit.github.io/files/5-Low-Rank Quaternion Approximation for Color Image Processing.pdf)</b> <br> 
-[[code]](http://cyyhit.github.io/files/code/LRQA code.zip)
+<b>[Low-Rank Quaternion Approximation for Color Image Processing](http://cyyhit.github.io/files/5-Low-Rank Quaternion Approximation for Color Image Processing.pdf)</b>
+[[code]](https://github.com/cyyhit/code) <br> 
 <b>Yongyong Chen</b>, X Xiao, Y Zhou.<br>
 <i>IEEE Transactions on Image Processing</i>.
 
@@ -40,7 +40,7 @@ X Xiao, <b>Yongyong Chen</b>, YJ Gong, Y Zhou.<br>
 <b>Yongyong Chen</b>, X Xiao, Y Zhou.<br>
 <i>2019 IEEE International Conference on Multimedia and Expo (ICME)</i>.
 
-<b>[Denoising of Hyperspectral Images Using Nonconvex Low Rank Matrix Approximation](http://cyyhit.github.io/files/10-Denoising of Hyperspectral Images Using Nonconvex Low Rank Matrix Approximation.pdf)</b> <br> 
+<b>[Denoising of Hyperspectral Images Using Nonconvex Low Rank Matrix Approximation](http://cyyhit.github.io/files/10-Denoising of Hyperspectral Images Using Nonconvex Low Rank Matrix Approximation.pdf)</b> [[code]](https://github.com/cyyhit/code) <br> 
 <b>Yongyong Chen</b>, Y Guo, Y Wang, D Wang, C Peng, G He.<br>
 <i>IEEE Transactions on Geoscience and Remote Sensing 55 (9), 5366-5380</i>.
 
