@@ -1,0 +1,109 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/font-awesome";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+html { font-size: 94.5%; }
+
+/* Google Scholar badge pills */
+.scholar-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin: 10px 0 18px 0;
+}
+
+.scholar-badge {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none !important;
+  border-radius: 999px;
+  overflow: hidden;
+  border: 1px solid rgba(0,0,0,.08);
+  box-shadow: 0 1px 0 rgba(0,0,0,.03);
+  line-height: 1;
+}
+
+.scholar-badge:hover {
+  transform: translateY(-1px);
+}
+
+.scholar-badge .badge-icon {
+  width: 18px;
+  height: 18px;
+  margin: 0 6px 0 8px;
+  border-radius: 4px;
+  background: rgba(255,255,255,.65);
+  position: relative;
+}
+
+/* small “gem” dot icon (like your screenshot’s blue icon) */
+.scholar-badge .badge-icon::after {
+  content: "";
+  position: absolute;
+  inset: 5px;
+  border-radius: 999px;
+  background: rgba(0,0,0,.25);
+}
+
+.scholar-badge .badge-label {
+  padding: 6px 8px 6px 0;
+  font-size: 0.85em;
+  color: rgba(0,0,0,.72);
+  background: rgba(0,0,0,.03);
+  white-space: nowrap;
+}
+
+.scholar-badge .badge-value {
+  padding: 6px 10px;
+  font-weight: 700;
+  font-size: 0.85em;
+  color: #fff;
+  white-space: nowrap;
+}
+
+/* color themes */
+.badge-cite .badge-value { background: #3B82F6; }   /* blue */
+.badge-hindex .badge-value { background: #2563EB; } /* deeper blue */
+.badge-i10 .badge-value { background: #F59E0B; }    /* amber */
+
+/* make the left part slightly tinted per badge */
+.badge-cite .badge-icon::after { background: rgba(59,130,246,.8); }
+.badge-hindex .badge-icon::after { background: rgba(37,99,235,.85); }
+.badge-i10 .badge-icon::after { background: rgba(245,158,11,.9); }
