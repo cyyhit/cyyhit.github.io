@@ -4,7 +4,7 @@ permalink: /service/
 author_profile: true
 ---
 
-
+<!-- 
 ## Editorial Roles
 - **Associate Editor**: IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)  
 - **Associate Editor**: IEEE Signal Processing Letters (IEEE SPL)  
@@ -42,4 +42,14 @@ author_profile: true
 ## Professional Membership
 - IEEE Member  
 - CCF Member (China Computer Federation)  
-- CAAI Member (Chinese Association for Artificial Intelligence)
+- CAAI Member (Chinese Association for Artificial Intelligence) -->
+
+
+
+## Editorial Board Membership
+
+- **Editorial Board Member**, *Pattern Recognition*  
+  (CAS Q1, SCI; Impact Factor (IF): **7.5**)
+
+- **Editorial Board Member**, *Big Data Mining and Analytics*  
+  (CAS Q1, ESCI; Impact Factor (IF): **13.6**)

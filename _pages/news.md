@@ -5,8 +5,6 @@ permalink: /news/
 author_profile: true
 ---
 
-2026.1: 🎉🎉 A paper is accepted by IEEE XXXX; A paper is accepted by IEEE TIE
+2026.3: 🎉🎉 A paper is accepted by IEEE TIP; 
 
-2026.1: 🎉🎉 A paper is accepted by IEEE TIP; A paper is accepted by IEEE TIE
-
-2026.1: 🎉🎉 A paper is accepted by ECCV; A paper is accepted by IEEE TIE
+<span style="color:red;">这部分您看哪几篇比较好</span>

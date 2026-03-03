@@ -12,3 +12,6 @@ author_profile: true
 2011.09 - 2013.06,  M.S., Department of Computer and Information Science, University of Macau
 
 2007.09 - 2011.06,  B.S., Department of Software Engineering, Chongqing University
+
+
+<span style="color:red;">Education和Experience您写一下</span>

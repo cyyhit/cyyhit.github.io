@@ -13,7 +13,7 @@ main:
     url: /education/
   - title: "Experience"
     url: /experience/
-  - title: "Grants"
-    url: /grants/
+  # - title: "Grants"
+  #   url: /grants/
   - title: "Contact"
     url: /contact/
