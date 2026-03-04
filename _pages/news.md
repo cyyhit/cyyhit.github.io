@@ -7,6 +7,8 @@ author_profile: true
 
 2026.3: 🎉🎉 One paper is accepted by IEEE TIP, Congratulations to Xiangming; 
 
+2025.11: 🎉🎉 One paper is accepted by IEEE TCSVT, Congratulations to Qiangqiang; 
+
 2025.2: 🎉🎉 Two papers are accepted by CVPR 2025, Congratulations to Xiangming and Shiyang; 
 
 2025.1: 🎉🎉 One paper is accepted by ICLR 2025, Congratulations to Benteng; 
