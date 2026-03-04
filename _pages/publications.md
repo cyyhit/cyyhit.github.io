@@ -12,6 +12,13 @@ You can also find the full publication list on:
 
 ## Recent publications
 
+### 2026
+<b>[Deep LoRA-Unfolding Networks for Image Restorationl](https://ieeexplore.ieee.org/abstract/document/11391488/) <a href="https://github.com/PAN083/DiffSCI" style="color:#d35400;">[Code]</a> </b> <br>
+Xiangming Wang, Haijin Zeng, Benteng Sun, Jiezhang Cao, Kai Zhang, Qiangqiang Shen, <b>Yongyong Chen</b>.<br>
+<i>IEEE TIP 2026</i>.
+
+
+
 ### 2025
 
 <b>[Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks](https://arxiv.org/pdf/2503.16930) <a href="https://github.com/xianggkl/VLU-Net" style="color:#d35400;">[Code]</a>  </b> <br>
