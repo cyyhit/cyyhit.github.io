@@ -9,7 +9,7 @@ author_profile: true
 
 Dr. Yongyong Chen is a Full Professor with the School of Computer Science and Technology at Harbin Institute of Technology (Shenzhen), China.  He obtained his Ph.D. in the Department of Computer and Information Science at the University of Macau, advised by Professor Yicong Zhou. 
 
-His research interests include Machine Learning and Computer Vision with applications in Computational Imaging, Medical Imaging, Multi-Modal Learning, Optimization Theory and Applications. He has published more than 100 papers in TOP journals, such as IJCV, IEEE TIP, IEEE TKDE, IEEE TIFS, IEEE TDSC, IEEE TCYB, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and IEEE TGRS, and top conferences, including NeurIPS, CVPR, ICLR, AAAI, IJCAI, ECCV, and ACMMM. He has been recognized as one of “World’s Top 2% Scientists” on the Stanford University Releases List since 2023.
+His research interests include Machine Learning and Computer Vision with applications in Computational Imaging, Medical Imaging, Multi-Modal Learning, Optimization Theory and Applications. He has published more than 100 papers in TOP journals, such as IJCV, IEEE TIP, IEEE TKDE, IEEE TIFS, IEEE TDSC, IEEE TCYB, IEEE TNNLS, IEEE TMM, IEEE TCSVT, and IEEE TGRS, and TOP conferences, including NeurIPS, CVPR, ICLR, AAAI, IJCAI, ECCV, and ACMMM. He has been recognized as one of “World’s Top 2% Scientists” on the Stanford University Releases List since 2023.
 
 If you have any interest in exploring potential academic collaborations or if you have inquiries related to my research, please feel free to contact me via email at [cyy2020@hit.edu.cn](mailto:cyy2020@hit.edu.cn) or [YongyongChen.cn@gmail.com](mailto:YongyongChen.cn@gmail.com).
 
