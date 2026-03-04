@@ -14,57 +14,57 @@ You can also find the full publication list on:
 
 ### 2025
 
-<b>[Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks](https://dblp.org/rec/conf/cvpr/ZengWCSL25.html)</b> <br>
+<b>[Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks](https://arxiv.org/pdf/2503.16930) <a href="https://github.com/xianggkl/VLU-Net" style="color:#d35400;">[Code]</a>  </b> <br>
 Haijin Zeng, Xiangming Wang, <b>Yongyong Chen</b>, Jingyong Su, Jie Liu.<br>
 <i>CVPR 2025</i>.
 
-<b>[Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing](https://dblp.org/rec/conf/cvpr/ZhouZLSKTCLS25.html)</b> <br>
+<b>[Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing](https://arxiv.org/abs/2503.16134) <a href="https://github.com/Clausy9/BMTNet" style="color:#d35400;">[Code]</a> </b> <br>
 Shiyang Zhou, Haijin Zeng, Yunfan Lu, Tong Shao, Ke Tang, <b>Yongyong Chen</b>, Jie Liu, Jingyong Su.<br>
 <i>CVPR 2025</i>.
 
-<b>[Global Graph Propagation with Hierarchical Information Transfer for Incomplete Contrastive Multi-view Clustering](https://dblp.org/rec/conf/aaai/ChaoXXC25.html)</b> <br>
+<b>[Global Graph Propagation with Hierarchical Information Transfer for Incomplete Contrastive Multi-view Clustering](https://arxiv.org/abs/2502.19291) <a href="https://github.com/KelvinXuu/GHICMC" style="color:#d35400;">[Code]</a> </b> <br>
 Guoqing Chao, Kaixin Xu, Xijiong Xie, <b>Yongyong Chen</b>.<br>
 <i>AAAI 2025</i>.
 
-<b>[OTLRM: Orthogonal Learning-based Low-Rank Metric for Multi-Dimensional Inverse Problems](https://dblp.org/rec/conf/aaai/WangZCLSC25.html)</b> <br>
+<b>[OTLRM: Orthogonal Learning-based Low-Rank Metric for Multi-Dimensional Inverse Problems](https://arxiv.org/abs/2412.11165) <a href="https://github.com/xianggkl/OTLRM" style="color:#d35400;">[Code]</a> </b> <br>
 Xiangming Wang, Haijin Zeng, Jiaoyang Chen, Sheng Liu, <b>Yongyong Chen</b>, Guoqing Chao.<br>
 <i>AAAI 2025</i>.
 
-<b>[Spectral Compressive Imaging via Unmixing-driven Subspace Diffusion Refinement](https://dblp.org/rec/conf/iclr/ZengSCSJX25.html)</b> <br>
+<b>[Spectral Compressive Imaging via Unmixing-driven Subspace Diffusion Refinement](https://openreview.net/pdf?id=Q150eWkQ4I) <a href="https://github.com/SMARK2022/PSR-SCI" style="color:#d35400;">[Code]</a> </b> <br>
 Haijin Zeng, Benteng Sun, <b>Yongyong Chen</b>, Jingyong Su, Yong Xu.<br>
 <i>ICLR 2025</i>.
 
 ### 2024
 
-<b>[DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model](https://dblp.org/rec/conf/cvpr/PanZCZC24.html)</b> <br>
+<b>[DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model](https://arxiv.org/abs/2311.11417) <a href="https://github.com/PAN083/DiffSCI" style="color:#d35400;">[Code]</a> </b> <br>
 Zhenghao Pan, Haijin Zeng, Jiezhang Cao, Kai Zhang, <b>Yongyong Chen</b>.<br>
 <i>CVPR 2024</i>.
 
-<b>[Dual Prior Unfolding for Snapshot Compressive Imaging](https://dblp.org/rec/conf/cvpr/ZhangZCCYY24.html)</b> <br>
+<b>[Dual Prior Unfolding for Snapshot Compressive Imaging](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dual_Prior_Unfolding_for_Snapshot_Compressive_Imaging_CVPR_2024_paper.html) <a href="https://github.com/ZhangJC-2k/DPU" style="color:#d35400;">[Code]</a> </b> <br>
 Jiancheng Zhang, Haijin Zeng, Jiezhang Cao, <b>Yongyong Chen</b>, Dengxiu Yu, Yin-Ping Zhao.<br>
 <i>CVPR 2024</i>.
 
-<b>[Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising](https://dblp.org/rec/conf/cvpr/ZengCCZCLP24.html)</b> <br>
+<b>[Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.pdf) <a href="https://github.com/NavyZeng/Diff-Unmix" style="color:#d35400;">[Code]</a> </b> <br>
 Haijin Zeng, Jiezhang Cao, Kai Zhang, <b>Yongyong Chen</b>, Hiep Luong, Wilfried Philips.<br>
 <i>CVPR 2024</i>.
 
-<b>[MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging](https://dblp.org/rec/conf/neurips/PanZCCZ024.html)</b> <br>
+<b>[MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging](http://arxiv.org/abs/2410.14214) <a href="https://github.com/PAN083/MambaSCI" style="color:#d35400;">[Code]</a> </b> <br> 
 Zhenghao Pan, Haijin Zeng, Jiezhang Cao, <b>Yongyong Chen</b>, Kai Zhang, Yong Xu.<br>
 <i>NeurIPS 2024</i>.
 
-<b>[SAH-SCI: Self-supervised Adapter for Efficient Hyperspectral Snapshot Compressive Imaging](https://dblp.org/rec/conf/eccv/ZengLC0024.html)</b> <br>
+<b>[SAH-SCI: Self-supervised Adapter for Efficient Hyperspectral Snapshot Compressive Imaging](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08105.pdf) <a href="https://github.com/lyuxi/SAH-SCI" style="color:#d35400;">[Code]</a> </b> <br>
 Haijin Zeng, Yuxi Liu, <b>Yongyong Chen</b>, Youfa Liu, Chong Peng, Jingyong Su.<br>
 <i>ECCV 2024</i>.
 
-<b>[Deep Unfolding 3D Non-Local Transformer Network for Hyperspectral Snapshot Compressive Imaging](https://dblp.org/rec/conf/icme/ZhouLCCZZ24.html)</b> <br>
+<b>[Deep Unfolding 3D Non-Local Transformer Network for Hyperspectral Snapshot Compressive Imaging](https://ieeexplore.ieee.org/document/10687944) </b> <br>
 Zheng Zhou, Zongxin Liu, <b>Yongyong Chen</b>, Bingzhi Chen, Biqing Zeng, Yicong Zhou.<br>
 <i>ICME 2024</i>.
 
-<b>[Cross-View Diversity Embedded Consensus Learning for Multi-View Clustering](https://dblp.org/rec/conf/ijcai/PengZCC024.html)</b> <br>
+<b>[Cross-View Diversity Embedded Consensus Learning for Multi-View Clustering](https://www.ijcai.org/proceedings/2024/0529.pdf)  </b> <br>
 Chong Peng, Kai Zhang, <b>Yongyong Chen</b>, Chenglizhao Chen, Qiang Cheng.<br>
 <i>IJCAI 2024</i>.
 
-<b>[Block Image Compressive Sensing with Local and Global Information Interaction](https://dblp.org/rec/conf/aaai/KongCZH24.html)</b> <br>
+<b>[Block Image Compressive Sensing with Local and Global Information Interaction](https://ojs.aaai.org/index.php/AAAI/article/view/28062) <a href="https://github.com/XYkong-CS/BRBCN" style="color:#d35400;">[Code]</a> </b> <br>
 Xiaoyu Kong, <b>Yongyong Chen</b>, Feng Zheng, Zhenyu He.<br>
 <i>AAAI 2024</i>.
 
@@ -86,9 +86,8 @@ Xiaoyu Kong, <b>Yongyong Chen</b>, Feng Zheng, Zhenyu He.<br>
 <b>Yongyong Chen</b>, X Xiao, Y Zhou.<br>
 <i>IEEE Transactions on Multimedia</i>.
 
-<b>[Low-Rank Quaternion Approximation for Color Image Processing](http://cyyhit.github.io/files/5-Low-Rank Quaternion Approximation for Color Image Processing.pdf)</b>
-[[code]](https://github.com/cyyhit/code) <br> 
-<b>Yongyong Chen</b>, X Xiao, Y Zhou.<br>
+<b>[Low-Rank Quaternion Approximation for Color Image Processing](http://cyyhit.github.io/files/5-Low-Rank Quaternion Approximation for Color Image Processing.pdf) <a href="https://github.com/cyyhit/code" style="color:#d35400;">[Code]</a><br>
+Yongyong Chen</b>, X Xiao, Y Zhou.<br>
 <i>IEEE Transactions on Image Processing</i>.
 
 <b>[Prior Knowledge Regularized Multiview Self-Representation and Its Applications](http://cyyhit.github.io/files/6-Prior Knowledge Regularized Multiew Self-Representation and Its Applications.pdf)</b> <br> 
@@ -107,7 +106,7 @@ X Xiao, <b>Yongyong Chen</b>, YJ Gong, Y Zhou.<br>
 <b>Yongyong Chen</b>, X Xiao, Y Zhou.<br>
 <i>2019 IEEE International Conference on Multimedia and Expo (ICME)</i>.
 
-<b>[Denoising of Hyperspectral Images Using Nonconvex Low Rank Matrix Approximation](http://cyyhit.github.io/files/10-Denoising of Hyperspectral Images Using Nonconvex Low Rank Matrix Approximation.pdf)</b> [[code]](https://github.com/cyyhit/code) <br> 
+<b>[Denoising of Hyperspectral Images Using Nonconvex Low Rank Matrix Approximation](http://cyyhit.github.io/files/10-Denoising of Hyperspectral Images Using Nonconvex Low Rank Matrix Approximation.pdf)</b> <a href="https://github.com/cyyhit/code" style="color:#d35400;">[Code]</a>  <br> 
 <b>Yongyong Chen</b>, Y Guo, Y Wang, D Wang, C Peng, G He.<br>
 <i>IEEE Transactions on Geoscience and Remote Sensing 55 (9), 5366-5380</i>.
 
