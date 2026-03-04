@@ -7,11 +7,13 @@ author_profile: true
 ## Education
 
 
-2013.09 - 2016.06,  Ph.D., Department of Computer and Information Science, University of Macau
+2017.08 - 2020.06,  Ph.D., Department of Computer and Information Science, University of Macau
 
-2011.09 - 2013.06,  M.S., Department of Computer and Information Science, University of Macau
+2014.09 - 2017.07,  M.S., College of Mathematics and Systems Science, Shandong University of Science and 
+Technology 
 
-2007.09 - 2011.06,  B.S., Department of Software Engineering, Chongqing University
+2010.09 - 2014.07,  B.S.,  College of Mathematics and Systems Science, Shandong University of Science and 
+Technology 
 
 
-<span style="color:red;">Education和Experience您写一下</span>
+<!--  <span style="color:red;">Education和Experience您写一下</span>-->
