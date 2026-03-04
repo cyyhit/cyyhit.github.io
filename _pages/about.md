@@ -18,7 +18,7 @@ If you have any interest in exploring potential academic collaborations or if yo
 <!-- [Google Scholar Profile](https://scholar.google.com/citations?user=ny2mn-cAAAAJ&hl=en&oi=ao){: .btn .btn--primary } -->
 
 
-<div class="scholar-badges">
+<!-- <div class="scholar-badges">
   <a class="scholar-badge badge-cite" href="https://scholar.google.com/citations?user=ny2mn-cAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">
     <span class="badge-icon"></span>
     <span class="badge-label">citations</span>
@@ -32,4 +32,4 @@ If you have any interest in exploring potential academic collaborations or if yo
     <span class="badge-label">h-index</span>
     <span class="badge-value">35</span>
   </a>
-</div>
+</div> -->
