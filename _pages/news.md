@@ -17,6 +17,6 @@ author_profile: true
 
 2024.9: 🎉🎉 One paper is accepted by NeurIPS 2024, Congratulations to Zhenghao; 
 
-2024.2: 🎉🎉 Four papers are accepted by CVPR 2024, Congratulations to Zhenghao, and Jiancheng; 
+2024.2: 🎉🎉 Four papers are accepted by CVPR 2024, Congratulations to Zhenghao and Jiancheng; 
 
 <!-- <span style="color:red;">这部分您看哪几篇比较好</span> -->
