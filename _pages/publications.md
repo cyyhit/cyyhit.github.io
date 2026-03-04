@@ -17,7 +17,7 @@ You can also find the full publication list on:
 Xiangming Wang, Haijin Zeng, Benteng Sun, Jiezhang Cao, Kai Zhang, Qiangqiang Shen, <b>Yongyong Chen</b>.<br>
 <i>IEEE TIP 2026</i>. -->
 
- <b>[Deep LoRA-Unfolding Networks for Image Restorationl](https://ieeexplore.ieee.org/abstract/document/11391488/)</a> </b> <br>
+ <b>[Deep LoRA-Unfolding Networks for Image Restorationl](https://ieeexplore.ieee.org/abstract/document/11391488/)</b> <br>
 Xiangming Wang, Haijin Zeng, Benteng Sun, Jiezhang Cao, Kai Zhang, Qiangqiang Shen, <b>Yongyong Chen</b>.<br>
 <i>IEEE TIP 2026</i>. 
 
