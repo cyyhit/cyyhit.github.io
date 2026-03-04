@@ -15,7 +15,7 @@ If you have any interest in exploring potential academic collaborations or if yo
 
 <!-- I received the B.S. degree in software engineering from <span style="color:red;">XXXX</span> University, <span style="color:red;">XXXX</span>, China, in <span style="color:red;">XXXX</span>, and the M.S. and Ph.D. degrees in <span style="color:red;">XXXX</span> from the University of Macau, Macau, China, in <span style="color:red;">XXXX</span> and <span style="color:red;">XXXX</span>, respectively. My works have appeared in prestigious venues such as ICML, CVPR, AAAI, ECCV, IJCAI, ACMMM, IEEE TIFS, IEEE TDSC, IEEE TC, IEEE TPDS, IEEE TIP, and IEEE TSP. I have published more than <span style="color:red;">XXXX</span> papers. I am an associate editor of IEEE Transactions on <span style="color:red;">XXXX</span>, IEEE <span style="color:red;">XXXX</span>, and International Journal of <span style="color:red;">XXXX</span>. -->
 
-<!-- [Google Scholar Profile](https://scholar.google.com/citations?user=ny2mn-cAAAAJ&hl=en&oi=ao){: .btn .btn--primary } -->
+ [Google Scholar Profile](https://scholar.google.com/citations?user=ny2mn-cAAAAJ&hl=en&oi=ao){: .btn .btn--primary } 
 
 
 <!-- <div class="scholar-badges">
