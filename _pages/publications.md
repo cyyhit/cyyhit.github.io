@@ -13,9 +13,9 @@ You can also find the full publication list on:
 ## Recent publications
 
 ### 2026
-<b>[Deep LoRA-Unfolding Networks for Image Restorationl](https://ieeexplore.ieee.org/abstract/document/11391488/) <a href="https://github.com/PAN083/DiffSCI" style="color:#d35400;">[Code]</a> </b> <br>
+<!-- <b>[Deep LoRA-Unfolding Networks for Image Restorationl](https://ieeexplore.ieee.org/abstract/document/11391488/) <a href="https://github.com/PAN083/DiffSCI" style="color:#d35400;">[Code]</a> </b> <br>
 Xiangming Wang, Haijin Zeng, Benteng Sun, Jiezhang Cao, Kai Zhang, Qiangqiang Shen, <b>Yongyong Chen</b>.<br>
-<i>IEEE TIP 2026</i>.
+<i>IEEE TIP 2026</i>. -->
 
 
 
