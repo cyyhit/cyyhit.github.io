@@ -13,6 +13,10 @@ You can also find the full publication list on:
 ## Recent publications
 
 ### 2026
+<!-- <b>[Linearized Tensor Low-rank Convolutional Network](https://ieeexplore.ieee.org/document/11533453/) <a href="https://github.com/PAN083/DiffSCI" style="color:#d35400;">[Code]</a> </b> <br>
+Qiangqiang Shen, Zonglin Liu, Hanzhang Wang, Yongsheng Liang, <b>Yongyong Chen</b>, Shiqi Wang.<br>
+<i>IEEE TAI 2026</i>. -->
+
 <!-- <b>[Deep LoRA-Unfolding Networks for Image Restorationl](https://ieeexplore.ieee.org/abstract/document/11391488/) <a href="https://github.com/PAN083/DiffSCI" style="color:#d35400;">[Code]</a> </b> <br>
 Xiangming Wang, Haijin Zeng, Benteng Sun, Jiezhang Cao, Kai Zhang, Qiangqiang Shen, <b>Yongyong Chen</b>.<br>
 <i>IEEE TIP 2026</i>. -->
